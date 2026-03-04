@@ -1,3 +1,4 @@
+# 기본 계산기
 def ab(a,b):
   return a*b
 
