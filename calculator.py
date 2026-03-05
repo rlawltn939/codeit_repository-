@@ -5,4 +5,5 @@ def ab(a,b):
 def substract(a,b):
   return a-b
 
-print("안녕")
+def multiply(a,b):
+  return a*b 
