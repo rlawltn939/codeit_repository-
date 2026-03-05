@@ -4,3 +4,5 @@ def ab(a,b):
 
 def substract(a,b):
   return a-b
+
+print("안녕")
